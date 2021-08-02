@@ -1,0 +1,18 @@
+body {
+  background-image: url('https://img1.wallspic.com/previews/1/5/6/9/3/139651/139651-lanzamiento_de_un_cohete-misil-contaminacin-x750.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #669999;
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+}
+
+#list-pilots {
+  font-family: Arial, Helvetica, sans-serif;
+  list-style: none;
+}
